@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FitbitClient", "FitbitClient\FitbitClient.csproj", "{89A2A5A3-BD61-46D7-B3FF-30C2E6288ABF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89A2A5A3-BD61-46D7-B3FF-30C2E6288ABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89A2A5A3-BD61-46D7-B3FF-30C2E6288ABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89A2A5A3-BD61-46D7-B3FF-30C2E6288ABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89A2A5A3-BD61-46D7-B3FF-30C2E6288ABF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74F2A1A3-C7A9-4210-8F55-457A45213686}
+	EndGlobalSection
+EndGlobal
